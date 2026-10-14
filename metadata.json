@@ -1,0 +1,8 @@
+{
+  "name": "StudyPilot AI",
+  "description": "Personalized Tutoring & Adaptive Learning with Source-Grounded RAG and Bayesian Learner Modeling",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
