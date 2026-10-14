@@ -17,7 +17,7 @@ const __dirname = path.dirname(__filename);
 
 async function startServer() {
   const app = express();
-  const PORT = 3000;
+  const PORT = Number(process.env.PORT) || 3000;
 
   // Set request payload limit to 35MB (supports 25MB raw file base64 data)
   app.use(express.json({ limit: '35mb' }));
