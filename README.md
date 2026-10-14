@@ -80,4 +80,3 @@ StudyPilot AI includes a built-in interactive benchmark runner in the **Evaluati
 - [System Architecture](docs/ARCHITECTURE.md)
 - [Evaluation Lab & Methodology](docs/EVALUATION.md)
 - [User Guide](docs/USER_GUIDE.md)
-- [Hackathon Demo Script (3–10 min)](docs/DEMO_SCRIPT.md)
